@@ -7,6 +7,8 @@ import {
   createRoutesFromElements,
   Route,
 } from 'react-router-dom';
+
+/*  */
 import RootLayout from './Components/RootLayout';
 import Home from './Pages/Home';
 import AboutPage from './Pages/about-us';
